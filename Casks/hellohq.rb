@@ -10,7 +10,7 @@ cask "hellohq" do
   # Homebrew is the update manager for cask installs; suppress in-app Sparkle.
   auto_updates false
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "HelloHQ.app"
 
