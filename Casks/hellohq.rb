@@ -1,8 +1,8 @@
 cask "hellohq" do
-  version "0.2.0"
-  sha256 "00f84001ec2d038b5abc343ee04a21ae7be87bfd88f54eab4d710de4159a406d"
+  version "0.2.2"
+  sha256 "4449007ad87793cf56993d37cd740ce0c52cc57988167e7b901cd21c661bdabc"
 
-  url "https://releases.hellohq.com/releases/HelloHQ-0.2.0.dmg"
+  url "https://releases.hellohq.com/releases/HelloHQ-0.2.2.dmg"
   name "HelloHQ"
   desc "Grow and protect your wealth — local-first, plugin-extensible"
   homepage "https://hellohq.com"
